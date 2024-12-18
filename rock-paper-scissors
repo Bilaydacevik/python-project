@@ -1,3 +1,18 @@
+# Taş-Kağıt-Makas Oyunu - Akış Diyagramı 
+# 1. Başlangıç
+# 2. Kullanıcıdan Taş, Kağıt, Makas girişini al
+# 3. Kullanıcıdan alınan girişin geçerliliğini kontrol et (Taş, Kağıt, Makas dışında giriş varsa)
+#    - Eğer geçersiz giriş → "Invalid number" mesajı ver ve tekrar giriş al
+# 4. Bilgisayardan rastgele Taş, Kağıt, Makas seç
+# 5. Kullanıcı ve bilgisayarın seçimlerini karşılaştır
+#    - Eğer kullanıcı == bilgisayar → "Beraberlik" döndür
+#    - Eğer kullanıcı > bilgisayar → "Kullanıcı Kazandı" döndür
+#    - Eğer bilgisayar > kullanıcı → "Bilgisayar Kazandı" döndür
+# 6. Sonuç göster ve kullanıcıdan yeniden oyun iste
+# 7. Eğer kullanıcı oyunu sonlandırmak isterse, bitir.
+
+
+
 import random
 
 rock = '''
