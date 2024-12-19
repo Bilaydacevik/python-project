@@ -19,6 +19,7 @@ Welcome to my Python projects repository! This collection showcases the projects
 ## 📂 Projects
 ### 1️⃣ **Beginner Level**
 - Rock Paper Scissors
+- Password Generator
 
 
 ### 2️⃣ **Intermediate Level**
